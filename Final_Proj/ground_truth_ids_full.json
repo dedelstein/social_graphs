@@ -1,0 +1,889 @@
+{
+  "ground_truth_ids": {
+    "Nir Barkat": {
+      "node_id": "240552679",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "John Dalli": {
+      "node_id": "56066420",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Andrej Babi\u0161": {
+      "node_id": "240552043",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Tung Chee-hwa": {
+      "node_id": "240552567",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Qiya Feng": {
+      "node_id": "240552586",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Ali Bongo": {
+      "node_id": "240552326",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "C\u00e9sar Gaviria": {
+      "node_id": "240552464",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Francisco Flores": {
+      "node_id": "240552136",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Nader Dahabi": {
+      "node_id": "240552267",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Horacio Cartes": {
+      "node_id": "240552453",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Pedro Pablo Kuczynski": {
+      "node_id": "240552454",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Juan Carlos Varela": {
+      "node_id": "240552258",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Luis Abinader": {
+      "node_id": "240552461",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Sebasti\u00e1n Pi\u00f1era": {
+      "node_id": "240552447",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Bidzina Ivanishvili": {
+      "node_id": "13008109",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Volodymyr Zelenskyy": {
+      "node_id": "240381741",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Martin Rushwaya": {
+      "node_id": "240552271",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Moonis Elahi": {
+      "node_id": "96552",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Wopke Hoekstra": {
+      "node_id": "240552522",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Ernesto P\u00e9rez Balladares": {
+      "node_id": "240552038",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Andr\u00e9s Pastrana": {
+      "node_id": "240552476",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Hassan Diab": {
+      "node_id": "240052746",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Mohsen Marzouk": {
+      "node_id": "240101902",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Svetlana Krivonogikh": {
+      "node_id": "240043940",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Mikhail Fridman": {
+      "node_id": "240510136",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Beibut Atamkulov": {
+      "node_id": "59090333",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Shaukat Aziz": {
+      "node_id": "84100011",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Antanas Guoga": {
+      "node_id": "59103376",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Paul Martin": {
+      "node_id": "84100010",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Mudhar Ghassan Shawkat": {
+      "node_id": "240045541",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Sauat Mukhametbayevich Mynbayev": {
+      "node_id": "240552185",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Carlos Quintanilla Schmidt": {
+      "node_id": "240552115",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Alfred Gusenbauer": {
+      "node_id": "59170938",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Yukio Hatoyama": {
+      "node_id": "84100002",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Ibrahim Mahama": {
+      "node_id": "84100000",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Rami Makhlouf": {
+      "node_id": "12034565",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Blairo Borges Maggi": {
+      "node_id": "84100005",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Jayant Sinha": {
+      "node_id": "84100007",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Ayad Allawi": {
+      "node_id": "12048878",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Petro Poroshenko": {
+      "node_id": "12129717",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Kojo Annan": {
+      "node_id": "12116563",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Michael Mates": {
+      "node_id": "12204481",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Pilar de Borb\u00f3n": {
+      "node_id": "15000601",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Bruno Jean-Richard Itoua": {
+      "node_id": "15000801",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Micaela Domecq Sol\u00eds-Beaumont": {
+      "node_id": "15000901",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Emmanuel Ndahiro": {
+      "node_id": "15001001",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Jaynet D\u00e9sir\u00e9e Kabila Kyungu": {
+      "node_id": "15001101",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "C\u00e9sar Almeyda": {
+      "node_id": "15001201",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "John Addo Kufuor": {
+      "node_id": "15001301",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Ian Cameron": {
+      "node_id": "15001401",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Stavros Papastavrou": {
+      "node_id": "15001601",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Attan Shansonga": {
+      "node_id": "15001701",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Clive Khulubuse Zuma": {
+      "node_id": "15001801",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Hamad bin Jassim bin Jaber Al Thani": {
+      "node_id": "240552247",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Mohammad Mustafa": {
+      "node_id": "15002201",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Jos\u00e9 Maria Botelho de Vasconcelos": {
+      "node_id": "15002501",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Riccardo Francolini": {
+      "node_id": "12046579",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Mauricio Macri": {
+      "node_id": "15002701",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "V\u00edctor Cruz Weffer": {
+      "node_id": "15003201",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Pedro Delgado": {
+      "node_id": "15003301",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Anurag Kejriwal": {
+      "node_id": "12124234",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Khalifa bin Zayed bin Sultan Al Nahyan": {
+      "node_id": "15003501",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Juan Armando Hinojosa": {
+      "node_id": "15003701",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Nurali Aliyev": {
+      "node_id": "12060831",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Jo\u00e3o Lyra": {
+      "node_id": "15004001",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Sergey Roldugin": {
+      "node_id": "12079386",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Giuseppe Donaldo Nicosia": {
+      "node_id": "12149297",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "N\u00e9stor Grindetti": {
+      "node_id": "15004801",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Konrad Mizzi": {
+      "node_id": "15005201",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Li Xiaolin": {
+      "node_id": "12115012",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Mamadou Pouye": {
+      "node_id": "15005401",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Alfredo Ovalle Rodr\u00edguez": {
+      "node_id": "15005501",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Javier Molina Bonilla": {
+      "node_id": "12153539",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Ahmad Ali al-Mirghani": {
+      "node_id": "15005801",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Galo Chiriboga": {
+      "node_id": "12049381",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Mounir Majidi": {
+      "node_id": "15006301",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Jes\u00fas Villanueva": {
+      "node_id": "15006401",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Bjarni Benediktsson": {
+      "node_id": "15006601",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "\u00d3l\u00f6f Nordal": {
+      "node_id": "15006701",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "James Ibori": {
+      "node_id": "15006801",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Deng Jiagui": {
+      "node_id": "12160401",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Mohd Nazifuddin bin Mohd Najib": {
+      "node_id": "12182910",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Jean-Claude N\u2019Da Ametchi": {
+      "node_id": "15007401",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Patrick Henri Devillers": {
+      "node_id": "12182238",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Abdullah II": {
+      "node_id": "240552057",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Najib Mikati": {
+      "node_id": "240552127",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Porfirio Lobo": {
+      "node_id": "240552100",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Alfredo Cristiani": {
+      "node_id": "240048120",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Guillermo Lasso": {
+      "node_id": "240552028",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Milo Djukanovic": {
+      "node_id": "240552245",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Ricardo Martinelli": {
+      "node_id": "240552200",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Paulo Guedes": {
+      "node_id": "240552535",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Sabah al-Ahmad al-Sabah": {
+      "node_id": "240552611",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Jean Chr\u00e9tien": {
+      "node_id": "84100006",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Valeriy Voshchevsky": {
+      "node_id": "59165849",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Daniel Mu\u00f1oz": {
+      "node_id": "12124521",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Ang Vong Vathana": {
+      "node_id": "12018969",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Salman bin Abdulaziz bin Abdulrahman Al Saud": {
+      "node_id": "15004501",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Jasmine Li": {
+      "node_id": "37693",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Sultan bin Khalifa Al Nahyan": {
+      "node_id": "240450100",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Dominique Strauss-Kahn": {
+      "node_id": "240471784",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Uhuru Kenyatta": {
+      "node_id": "240552255",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Patrick Achi": {
+      "node_id": "56023168",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Abdelkarim Kabariti": {
+      "node_id": "240381735",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Laurent Lamothe": {
+      "node_id": "240552585",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Konstantin Ernst": {
+      "node_id": "240511060",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Hamad bin Jassim Al Thani": {
+      "node_id": "12154709",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Nour EL Fath Azali": {
+      "node_id": "240552484",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Dariga Nazarbayeva and family": {
+      "node_id": "12048181",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Manuel Rabelais": {
+      "node_id": "240051057",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Mukhtar Ablyazov": {
+      "node_id": "80026808",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Henrique de Campos Meirelles": {
+      "node_id": "80101024",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Wesley K. Clark": {
+      "node_id": "84100009",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Hakainde Sammy Hichilema": {
+      "node_id": "80076875",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Sally Kosgei": {
+      "node_id": "80088014",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Ellen Johnson Sirleaf": {
+      "node_id": "80083705",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Brian Mulroney": {
+      "node_id": "80104789",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "James Meyer Sassoon": {
+      "node_id": "80135165",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Prabowo Subianto": {
+      "node_id": "80128987",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Bukola Saraki": {
+      "node_id": "80043014",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Sam Kahamba Kutesa": {
+      "node_id": "80088885",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Wilbur Louis Ross, Jr.": {
+      "node_id": "80118878",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Penny Pritzker": {
+      "node_id": "80114370",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Juan Manuel Santos": {
+      "node_id": "39062322",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Alaa Mubarak": {
+      "node_id": "13008071",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Pamela Sharples": {
+      "node_id": "12123038",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Hamad bin Khalifa Al Thani": {
+      "node_id": "12134236",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Denis Sassou-Nguesso": {
+      "node_id": "240045592",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Sini\u0161a Mali": {
+      "node_id": "240552094",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Jos\u00e9 Mar\u00eda Figueres": {
+      "node_id": "80065193",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Rex Tillerson": {
+      "node_id": "80133535",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Mamadie Tour\u00e9": {
+      "node_id": "15001501",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Sigmundur Dav\u00ed\u00f0 Gunnlaugsson": {
+      "node_id": "12161442",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Mohammad bin Naif bin Abdulaziz Al-Saud": {
+      "node_id": "12196468",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Pawe\u0142 Piskorski": {
+      "node_id": "13009553",
+      "matched_name": "Previously found",
+      "node_type": "unknown",
+      "source": "Loaded from file"
+    },
+    "Queen Elizabeth II": {
+      "node_id": "101833038",
+      "matched_name": "THE LEAGUE OF FRIENDS OF THE QUEEN ELIZABETH HOSPITAL INC.",
+      "node_type": "entity",
+      "source": "CSV-token:nodes-entities.csv"
+    },
+    "Jim Muhwezi": {
+      "node_id": "240552021",
+      "matched_name": "Jim Katugugu MUHWEZI",
+      "node_type": "officer",
+      "source": "CSV-lastname:nodes-officers.csv"
+    },
+    "Sheikh Tamim bin Hamad Al Thani": {
+      "node_id": "11002010",
+      "matched_name": "SHEIKH HAMAD BIN JASSEM BIN JABR AL-THANI",
+      "node_type": "intermediary",
+      "source": "CSV-lastname:nodes-intermediaries.csv"
+    }
+  },
+  "missing": [
+    "Tony Blair",
+    "Nirupama Rajapaksa",
+    "CY Leung",
+    "Zakaria Idriss D\u00e9by Itno",
+    "Lalla Hasnaa",
+    "Aires Ali",
+    "Sheikh Khalifa bin Salman Al Khalifa",
+    "Mohammed bin Rashid Al Maktoum",
+    "The Aliyev children",
+    "Shaukat Tarin",
+    "S\u00fckhbaataryn Batbold",
+    "Gennady Timchenko",
+    "Delyan Slavchev Peevski",
+    "Ramalingam Paskaralingam",
+    "Tahnoon bin Zayed Al Nahyan",
+    "Emmanuel Lomoro Lowila",
+    "Suleiman Kerimov",
+    "Family of Sergei Chemezov",
+    "Alejandro Gertz Manero",
+    "Ravindra Kishore (RK) Sinha",
+    "Prince Khaled bin Sultan bin Abdulaziz",
+    "Anton Prigodsky",
+    "Noor al-Hussein",
+    "Ana Djukanovic",
+    "Erkam and Bulent Yildirim",
+    "Tommy and Mamiek Suharto",
+    "J\u00e9r\u00f4me Cahuzac",
+    "Mariam Safdar, Hasan and Hussain Nawaz Sharif",
+    "Pavlo Lazarenko",
+    "Carlos Guti\u00e9rrez Robayo",
+    "C\u00e9sar Rosenthal",
+    "Rami and Hafez Makhlouf",
+    "Prime Minister Ilham Aliyev&#39;s wife, children and sister",
+    "Idal\u00e9cio de Oliveira",
+    "Ali Abu al-Ragheb",
+    "Abdeslam Bouchouareb",
+    "Ian Kirby",
+    "Kalpana Rawal",
+    "Arkady and Boris Rotenberg",
+    "Zsolt Horv\u00e1th",
+    "S\u00fckhbaataryn Batbold",
+    "Malcolm Turnbull"
+  ],
+  "summary": {
+    "total": 181,
+    "found": 138,
+    "missing": 42,
+    "stage_breakdown": {
+      "loaded_from_file": 135,
+      "stage1_api": 0,
+      "stage2_exact": 0,
+      "stage3_partial": 0,
+      "stage4_token": 1,
+      "stage5_lastname": 2
+    }
+  }
+}
