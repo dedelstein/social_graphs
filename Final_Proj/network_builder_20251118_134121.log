@@ -1,0 +1,273 @@
+2025-11-18 13:41:21,101 - INFO - Panama Papers Network Builder
+2025-11-18 13:41:21,101 - INFO - Arguments: {'max_nodes': 50000, 'max_depth': 5, 'output': None, 'log_file': 'network_builder_20251118_134121.log'}
+2025-11-18 13:41:21,101 - INFO - Loading node data using 24 CPU cores...
+2025-11-18 13:41:21,101 - INFO - Loading and processing CSV files in parallel...
+2025-11-18 13:42:17,341 - INFO - Processing 814344 entity nodes...
+2025-11-18 13:42:17,370 - INFO - Processing 771315 officer nodes...
+2025-11-18 13:42:17,601 - INFO - Processing 25629 intermediary nodes...
+2025-11-18 13:42:17,606 - INFO - Processing 402246 address nodes...
+2025-11-18 13:42:17,695 - INFO - Processing 2989 other nodes...
+2025-11-18 13:42:17,696 - INFO - Loaded 2016523 total nodes
+2025-11-18 13:42:17,736 - INFO - Loading ground truth IDs from ground_truth_ids.pkl...
+2025-11-18 13:42:17,737 - INFO - Loaded 172 ground truth IDs
+2025-11-18 13:42:17,737 - INFO -   ✓ Nir Barkat -> Nir Barkat (officer, ID: 240552679)
+2025-11-18 13:42:17,737 - INFO -   ✓ John Dalli -> JOHN DALLI (officer, ID: 56066420)
+2025-11-18 13:42:17,738 - INFO -   ✓ Andrej Babiš -> Andrej Babis (officer, ID: 240552043)
+2025-11-18 13:42:17,738 - INFO -   ✓ Tung Chee-hwa -> Tung Chee-hwa (officer, ID: 240552567)
+2025-11-18 13:42:17,738 - INFO -   ✓ Qiya Feng -> Qiya Feng (officer, ID: 240552586)
+2025-11-18 13:42:17,738 - INFO -   ✓ Ali Bongo -> Ali Bongo (officer, ID: 240552326)
+2025-11-18 13:42:17,738 - INFO -   ✓ César Gaviria -> César Gaviria (officer, ID: 240552464)
+2025-11-18 13:42:17,738 - INFO -   ✓ Francisco Flores -> Francisco Flores (officer, ID: 240552136)
+2025-11-18 13:42:17,738 - INFO -   ✓ Nader Dahabi -> Nader Dahabi (officer, ID: 240552267)
+2025-11-18 13:42:17,738 - INFO -   ✓ Horacio Cartes -> Horacio Cartes (officer, ID: 240552453)
+2025-11-18 13:42:17,738 - INFO -   ✓ Pedro Pablo Kuczynski -> Pedro Pablo Kuczynski (officer, ID: 240552454)
+2025-11-18 13:42:17,738 - INFO -   ✓ Juan Carlos Varela -> Juan Carlos Varela (officer, ID: 240552258)
+2025-11-18 13:42:17,738 - INFO -   ✓ Luis Abinader -> Luis Abinader (officer, ID: 240552461)
+2025-11-18 13:42:17,738 - INFO -   ✓ Sebastián Piñera -> Sebastián Piñera (officer, ID: 240552447)
+2025-11-18 13:42:17,738 - INFO -   ✓ Bidzina Ivanishvili -> Bidzina Ivanishvili (officer, ID: 13008109)
+2025-11-18 13:42:17,738 - INFO -   ✓ Volodymyr Zelenskyy -> VOLODYMYR ZELENSKYY (officer, ID: 240381741)
+2025-11-18 13:42:17,738 - INFO -   ✓ Martin Rushwaya -> Martin Rushwaya (officer, ID: 240552271)
+2025-11-18 13:42:17,738 - INFO -   ✓ Moonis Elahi -> Moonis Elahi (officer, ID: 96552)
+2025-11-18 13:42:17,738 - INFO -   ✓ Wopke Hoekstra -> Wopke Hoekstra (officer, ID: 240552522)
+2025-11-18 13:42:17,738 - INFO -   ✓ Ernesto Pérez Balladares -> Ernesto Pérez Balladares (officer, ID: 240552038)
+2025-11-18 13:42:17,738 - INFO -   ✓ Andrés Pastrana -> Andrés Pastrana (officer, ID: 240552476)
+2025-11-18 13:42:17,738 - INFO -   ✓ Hassan Diab -> HASSAN DIAB (officer, ID: 240052746)
+2025-11-18 13:42:17,738 - INFO -   ✓ Mohsen Marzouk -> MOHSEN MARZOUK (officer, ID: 240101902)
+2025-11-18 13:42:17,738 - INFO -   ✓ Svetlana Krivonogikh -> SVETLANA KRIVONOGIKH (officer, ID: 240043940)
+2025-11-18 13:42:17,739 - INFO -   ✓ Mikhail Fridman -> Mikhail Fridman (officer, ID: 240510136)
+2025-11-18 13:42:17,739 - INFO -   ✓ Beibut Atamkulov -> BEIBUT ATAMKULOV (officer, ID: 59090333)
+2025-11-18 13:42:17,739 - INFO -   ✓ Shaukat Aziz -> Shaukat Aziz (officer, ID: 84100011)
+2025-11-18 13:42:17,739 - INFO -   ✓ Antanas Guoga -> ANTANAS GUOGA (officer, ID: 59103376)
+2025-11-18 13:42:17,739 - INFO -   ✓ Paul Martin -> Paul Martin (officer, ID: 84100010)
+2025-11-18 13:42:17,739 - INFO -   ✓ Mudhar Ghassan Shawkat -> MUDHAR GHASSAN SHAWKAT (officer, ID: 240045541)
+2025-11-18 13:42:17,739 - INFO -   ✓ Sauat Mukhametbayevich Mynbayev -> Sauat Mukhametbayevich Mynbayev (officer, ID: 240552185)
+2025-11-18 13:42:17,739 - INFO -   ✓ Carlos Quintanilla Schmidt -> Carlos Quintanilla Schmidt (officer, ID: 240552115)
+2025-11-18 13:42:17,739 - INFO -   ✓ Alfred Gusenbauer -> ALFRED GUSENBAUER (officer, ID: 59170938)
+2025-11-18 13:42:17,739 - INFO -   ✓ Yukio Hatoyama -> Yukio Hatoyama (officer, ID: 84100002)
+2025-11-18 13:42:17,739 - INFO -   ✓ Ibrahim Mahama -> Ibrahim Mahama (officer, ID: 84100000)
+2025-11-18 13:42:17,739 - INFO -   ✓ Rami Makhlouf -> RAMI MAKHLOUF (officer, ID: 12034565)
+2025-11-18 13:42:17,739 - INFO -   ✓ Blairo Borges Maggi -> Blairo Borges Maggi (officer, ID: 84100005)
+2025-11-18 13:42:17,739 - INFO -   ✓ Jayant Sinha -> Jayant Sinha (officer, ID: 84100007)
+2025-11-18 13:42:17,739 - INFO -   ✓ Ayad Allawi -> AYAD ALLAWI (officer, ID: 12048878)
+2025-11-18 13:42:17,739 - INFO -   ✓ Petro Poroshenko -> Petro Poroshenko (officer, ID: 12129717)
+2025-11-18 13:42:17,739 - INFO -   ✓ Kojo Annan -> KOJO ANNAN (officer, ID: 12116563)
+2025-11-18 13:42:17,739 - INFO -   ✓ Michael Mates -> MICHAEL MATES (officer, ID: 12204481)
+2025-11-18 13:42:17,739 - INFO -   ✓ Pilar de Borbón -> Pilar de Borbón (officer, ID: 15000601)
+2025-11-18 13:42:17,739 - INFO -   ✓ Bruno Jean-Richard Itoua -> Bruno Jean-Richard Itoua (officer, ID: 15000801)
+2025-11-18 13:42:17,739 - INFO -   ✓ Micaela Domecq Solís-Beaumont -> Micaela Domecq Solís-Beaumont (officer, ID: 15000901)
+2025-11-18 13:42:17,740 - INFO -   ✓ Emmanuel Ndahiro -> Emmanuel Ndahiro (officer, ID: 15001001)
+2025-11-18 13:42:17,740 - INFO -   ✓ Jaynet Désirée Kabila Kyungu -> Jaynet Désirée Kabila Kyungu (officer, ID: 15001101)
+2025-11-18 13:42:17,740 - INFO -   ✓ César Almeyda -> César Almeyda (officer, ID: 15001201)
+2025-11-18 13:42:17,740 - INFO -   ✓ John Addo Kufuor -> John Addo Kufuor (officer, ID: 15001301)
+2025-11-18 13:42:17,740 - INFO -   ✓ Ian Cameron -> Ian Cameron (officer, ID: 15001401)
+2025-11-18 13:42:17,740 - INFO -   ✓ Stavros Papastavrou -> Stavros Papastavrou (officer, ID: 15001601)
+2025-11-18 13:42:17,740 - INFO -   ✓ Attan Shansonga -> Attan Shansonga (officer, ID: 15001701)
+2025-11-18 13:42:17,740 - INFO -   ✓ Clive Khulubuse Zuma -> Clive Khulubuse Zuma (officer, ID: 15001801)
+2025-11-18 13:42:17,740 - INFO -   ✓ Hamad bin Jassim bin Jaber Al Thani -> Hamad bin Jassim bin Jaber Al Thani (officer, ID: 240552247)
+2025-11-18 13:42:17,740 - INFO -   ✓ Mohammad Mustafa -> Mohammad Mustafa (officer, ID: 15002201)
+2025-11-18 13:42:17,740 - INFO -   ✓ José Maria Botelho de Vasconcelos -> José Maria Botelho de Vasconcelos (officer, ID: 15002501)
+2025-11-18 13:42:17,740 - INFO -   ✓ Riccardo Francolini -> RICCARDO FRANCOLINI (officer, ID: 12046579)
+2025-11-18 13:42:17,740 - INFO -   ✓ Mauricio Macri -> Mauricio Macri (officer, ID: 15002701)
+2025-11-18 13:42:17,740 - INFO -   ✓ Víctor Cruz Weffer -> Víctor Cruz Weffer (officer, ID: 15003201)
+2025-11-18 13:42:17,740 - INFO -   ✓ Pedro Delgado -> Pedro Delgado (officer, ID: 15003301)
+2025-11-18 13:42:17,740 - INFO -   ✓ Anurag Kejriwal -> Anurag KEJRIWAL (officer, ID: 12124234)
+2025-11-18 13:42:17,740 - INFO -   ✓ Khalifa bin Zayed bin Sultan Al Nahyan -> Khalifa bin Zayed bin Sultan Al Nahyan (officer, ID: 15003501)
+2025-11-18 13:42:17,740 - INFO -   ✓ Juan Armando Hinojosa -> Juan Armando Hinojosa (officer, ID: 15003701)
+2025-11-18 13:42:17,740 - INFO -   ✓ Nurali Aliyev -> Nurali Aliyev (officer, ID: 12060831)
+2025-11-18 13:42:17,740 - INFO -   ✓ João Lyra -> João Lyra (officer, ID: 15004001)
+2025-11-18 13:42:17,740 - INFO -   ✓ Sergey Roldugin -> SERGEY ROLDUGIN (officer, ID: 12079386)
+2025-11-18 13:42:17,740 - INFO -   ✓ Giuseppe Donaldo Nicosia -> Giuseppe Donaldo Nicosia (officer, ID: 12149297)
+2025-11-18 13:42:17,740 - INFO -   ✓ Néstor Grindetti -> Néstor Grindetti (officer, ID: 15004801)
+2025-11-18 13:42:17,741 - INFO -   ✓ Konrad Mizzi -> Konrad Mizzi (officer, ID: 15005201)
+2025-11-18 13:42:17,741 - INFO -   ✓ Li Xiaolin -> Li Xiaolin (officer, ID: 12115012)
+2025-11-18 13:42:17,741 - INFO -   ✓ Mamadou Pouye -> Mamadou Pouye (officer, ID: 15005401)
+2025-11-18 13:42:17,741 - INFO -   ✓ Alfredo Ovalle Rodríguez -> Alfredo Ovalle Rodríguez (officer, ID: 15005501)
+2025-11-18 13:42:17,741 - INFO -   ✓ Javier Molina Bonilla -> JAVIER MOLINA BONILLA (officer, ID: 12153539)
+2025-11-18 13:42:17,741 - INFO -   ✓ Ahmad Ali al-Mirghani -> Ahmad Ali al-Mirghani (officer, ID: 15005801)
+2025-11-18 13:42:17,741 - INFO -   ✓ Galo Chiriboga -> GALO CHIRIBOGA (officer, ID: 12049381)
+2025-11-18 13:42:17,741 - INFO -   ✓ Mounir Majidi -> Mounir Majidi (officer, ID: 15006301)
+2025-11-18 13:42:17,741 - INFO -   ✓ Jesús Villanueva -> Jesús Villanueva (officer, ID: 15006401)
+2025-11-18 13:42:17,741 - INFO -   ✓ Bjarni Benediktsson -> Bjarni Benediktsson (officer, ID: 15006601)
+2025-11-18 13:42:17,741 - INFO -   ✓ Ólöf Nordal -> Ólöf Nordal (officer, ID: 15006701)
+2025-11-18 13:42:17,741 - INFO -   ✓ James Ibori -> James Ibori (officer, ID: 15006801)
+2025-11-18 13:42:17,741 - INFO -   ✓ Deng Jiagui -> DENG Jiagui (officer, ID: 12160401)
+2025-11-18 13:42:17,741 - INFO -   ✓ Mohd Nazifuddin bin Mohd Najib -> MOHD NAZIFUDDIN BIN MOHD NAJIB (officer, ID: 12182910)
+2025-11-18 13:42:17,741 - INFO -   ✓ Jean-Claude N’Da Ametchi -> Jean-Claude N’Da Ametchi (officer, ID: 15007401)
+2025-11-18 13:42:17,741 - INFO -   ✓ Patrick Henri Devillers -> Patrick Henri Devillers (officer, ID: 12182238)
+2025-11-18 13:42:17,741 - INFO -   ✓ Abdullah II -> Abdullah II Ibn Al Hussein (officer, ID: 240552057)
+2025-11-18 13:42:17,741 - INFO -   ✓ Najib Mikati -> Najib Mikati  (officer, ID: 240552127)
+2025-11-18 13:42:17,741 - INFO -   ✓ Porfirio Lobo -> Porfirio Lobo Sosa (officer, ID: 240552100)
+2025-11-18 13:42:17,741 - INFO -   ✓ Alfredo Cristiani -> JAVIER ALFREDO CRISTIANI LLACH (officer, ID: 240048120)
+2025-11-18 13:42:17,741 - INFO -   ✓ Guillermo Lasso -> Guillermo Lasso Mendoza (officer, ID: 240552028)
+2025-11-18 13:42:17,741 - INFO -   ✓ Milo Djukanovic -> Milo Djukanovic (Dukanovic) (officer, ID: 240552245)
+2025-11-18 13:42:17,741 - INFO -   ✓ Ricardo Martinelli -> Ricardo Martinelli Berrocal (officer, ID: 240552200)
+2025-11-18 13:42:17,742 - INFO -   ✓ Paulo Guedes -> Paulo Guedes and family (daughter and wife) (officer, ID: 240552535)
+2025-11-18 13:42:17,742 - INFO -   ✓ Sabah al-Ahmad al-Sabah -> Sheikh Sabah al-Ahmad al-Sabah (officer, ID: 240552611)
+2025-11-18 13:42:17,742 - INFO -   ✓ Jean Chrétien -> Joseph Jacques Jean Chrétien (officer, ID: 84100006)
+2025-11-18 13:42:17,742 - INFO -   ✓ Valeriy Voshchevsky -> VALERIY VOSHCHEVSKYY (officer, ID: 59165849)
+2025-11-18 13:42:17,742 - INFO -   ✓ Daniel Muñoz -> FERNANDO DANIEL MUÑOZ MERIZALDE (officer, ID: 12124521)
+2025-11-18 13:42:17,742 - INFO -   ✓ Ang Vong Vathana -> H.E. ANG VONG VATHANA (officer, ID: 12018969)
+2025-11-18 13:42:17,742 - INFO -   ✓ Salman bin Abdulaziz bin Abdulrahman Al Saud -> King Salman bin Abdulaziz bin Abdulrahman Al Saud (officer, ID: 15004501)
+2025-11-18 13:42:17,742 - INFO -   ✓ Jasmine Li -> Jasmine Limited                          (officer, ID: 37693)
+2025-11-18 13:42:17,742 - INFO -   ✓ Sultan bin Khalifa Al Nahyan -> OFFICE 2501, P.O.BOX 48904, OWNED BY HH SHEIKH SULTAN BIN KHALIFA AL NAHYAN, SHEIKH ZAYED ROAD, DUBAI, UAE (address, ID: 240450100)
+2025-11-18 13:42:17,742 - INFO -   ✓ Dominique Strauss-Kahn -> Dominique Gaston Andre STRAUSS-KAHN (officer, ID: 240471784)
+2025-11-18 13:42:17,742 - INFO -   ✓ Uhuru Kenyatta -> Uhuru Muigai Kenyatta (officer, ID: 240552255)
+2025-11-18 13:42:17,742 - INFO -   ✓ Patrick Achi -> PATRICK CACHIA (officer, ID: 56023168)
+2025-11-18 13:42:17,742 - INFO -   ✓ Abdelkarim Kabariti -> NOUR ABDELKARIM ALAWI KABARITI (officer, ID: 240381735)
+2025-11-18 13:42:17,742 - INFO -   ✓ Laurent Lamothe -> Laurent Salvador Lamothe (officer, ID: 240552585)
+2025-11-18 13:42:17,742 - INFO -   ✓ Konstantin Ernst -> Ernst Konstantin (officer, ID: 240511060)
+2025-11-18 13:42:17,742 - INFO -   ✓ Hamad bin Jassim Al Thani -> Sheikh Hamad Jassim J.M. Al-Thani (officer, ID: 12154709)
+2025-11-18 13:42:17,742 - INFO -   ✓ Nour EL Fath Azali -> Nour-El-Fath Azali (officer, ID: 240552484)
+2025-11-18 13:42:17,742 - INFO -   ✓ Dariga Nazarbayeva and family -> DARIGA N. NAZARBAYEVA (officer, ID: 12048181)
+2025-11-18 13:42:17,742 - INFO -   ✓ Manuel Rabelais -> MANUEL ANTONIO RABELAIS (officer, ID: 240051057)
+2025-11-18 13:42:17,742 - INFO -   ✓ Mukhtar Ablyazov -> Ablyazov - Mukhtar (officer, ID: 80026808)
+2025-11-18 13:42:17,742 - INFO -   ✓ Henrique de Campos Meirelles -> Meirelles - Henrique de Campos (officer, ID: 80101024)
+2025-11-18 13:42:17,743 - INFO -   ✓ Wesley K. Clark -> Wesley Clark (officer, ID: 84100009)
+2025-11-18 13:42:17,743 - INFO -   ✓ Hakainde Sammy Hichilema -> Hichilema - Hakainde Sammy (officer, ID: 80076875)
+2025-11-18 13:42:17,743 - INFO -   ✓ Sally Kosgei -> Kosgei - Sally (officer, ID: 80088014)
+2025-11-18 13:42:17,743 - INFO -   ✓ Ellen Johnson Sirleaf -> Johnson-Sirleaf - Ellen (officer, ID: 80083705)
+2025-11-18 13:42:17,743 - INFO -   ✓ Brian Mulroney -> Mulroney - Brian Martin (officer, ID: 80104789)
+2025-11-18 13:42:17,743 - INFO -   ✓ James Meyer Sassoon -> Sassoon - James Meyer (officer, ID: 80135165)
+2025-11-18 13:42:17,743 - INFO -   ✓ Prabowo Subianto -> Subianto - Prabowo (officer, ID: 80128987)
+2025-11-18 13:42:17,743 - INFO -   ✓ Bukola Saraki -> Saraki - Bukola (officer, ID: 80043014)
+2025-11-18 13:42:17,743 - INFO -   ✓ Sam Kahamba Kutesa -> Kutesa - Sam Kahamba (officer, ID: 80088885)
+2025-11-18 13:42:17,743 - INFO -   ✓ Wilbur Louis Ross, Jr. -> Ross, Jr. - Wilbur Louis (officer, ID: 80118878)
+2025-11-18 13:42:17,743 - INFO -   ✓ Penny Pritzker -> Pritzker - Penny (officer, ID: 80114370)
+2025-11-18 13:42:17,743 - INFO -   ✓ Juan Manuel Santos -> SANTOS JUAN MANUEL (officer, ID: 39062322)
+2025-11-18 13:42:17,743 - INFO -   ✓ Alaa Mubarak -> Alaa Mohamed Hosny Mubarak (officer, ID: 13008071)
+2025-11-18 13:42:17,743 - INFO -   ✓ Pamela Sharples -> PAMELA BARONESS SHARPLES (officer, ID: 12123038)
+2025-11-18 13:42:17,743 - INFO -   ✓ Hamad bin Khalifa Al Thani -> Mohammed Bin Khalifa Bin Hamad Al-Thani (officer, ID: 12134236)
+2025-11-18 13:42:17,743 - INFO -   ✓ Denis Sassou-Nguesso -> DENIS SASSOU NGUESSO (officer, ID: 240045592)
+2025-11-18 13:42:17,743 - INFO -   ✓ Siniša Mali -> Sinisa Mali (officer, ID: 240552094)
+2025-11-18 13:42:17,743 - INFO -   ✓ José María Figueres -> Figueres - Jose Maria (officer, ID: 80065193)
+2025-11-18 13:42:17,744 - INFO -   ✓ Rex Tillerson -> Tillerson - Rex (officer, ID: 80133535)
+2025-11-18 13:42:17,744 - INFO -   ✓ Mamadie Touré -> Mamadie Toure (officer, ID: 15001501)
+2025-11-18 13:42:17,744 - INFO -   ✓ Sigmundur Davíð Gunnlaugsson -> Sigmundur David Gunnlaugsson (officer, ID: 12161442)
+2025-11-18 13:42:17,744 - INFO -   ✓ Mohammad bin Naif bin Abdulaziz Al-Saud -> Mohammad Bin Naif Bin Abdulaziz Al Saud (officer, ID: 12196468)
+2025-11-18 13:42:17,744 - INFO -   ✓ Paweł Piskorski -> PAWEL PISKORSKI (officer, ID: 13009553)
+2025-11-18 13:42:17,744 - INFO -   ✓ Jim Muhwezi -> Jim Katugugu MUHWEZI (officer, ID: 240552021)
+2025-11-18 13:42:17,744 - INFO -   ✓ Sheikh Tamim bin Hamad Al Thani -> SHEIKH HAMAD BIN JASSEM BIN JABR AL-THANI (intermediary, ID: 11002010)
+2025-11-18 13:42:17,744 - INFO -   ✓ Abdeslam Bouchouareb -> Bouchouareb Abdessalam (officer, ID: 13005395)
+2025-11-18 13:42:17,744 - INFO -   ✓ Aires Ali -> Aires Bonifácio Baptista Ali (officer, ID: 240552218)
+2025-11-18 13:42:17,744 - INFO -   ✓ Alejandro Gertz Manero -> Gertz - Alejandro M (officer, ID: 80069348)
+2025-11-18 13:42:17,744 - INFO -   ✓ Ali Abu al-Ragheb -> MR. ALI HUSEIN ABU-RAGHEB (officer, ID: 12135614)
+2025-11-18 13:42:17,744 - INFO -   ✓ Ana Djukanovic -> ANA DUKANOVIC (officer, ID: 59178341)
+2025-11-18 13:42:17,744 - INFO -   ✓ Anton Prygodskyy -> ANTON PRYGODSKYY (officer, ID: 59162388)
+2025-11-18 13:42:17,744 - INFO -   ✓ Boris Rotenberg -> BORIS ROTENBERG (officer, ID: 240054664)
+2025-11-18 13:42:17,744 - INFO -   ✓ Arkady Rotenberg -> Arkady Rotenberg (officer, ID: 15007201)
+2025-11-18 13:42:17,744 - INFO -   ✓ CY Leung -> Leung Chun-ying (officer, ID: 240552675)
+2025-11-18 13:42:17,744 - INFO -   ✓ Carlos Gutiérrez Robayo -> CARLOS ALBERTO GUTIERREZ ROBAYO (officer, ID: 12144900)
+2025-11-18 13:42:17,744 - INFO -   ✓ César Rosenthal -> CESAR AUGUSTO ROSENTHAL HIDALGO (officer, ID: 12140943)
+2025-11-18 13:42:17,744 - INFO -   ✓ Delyan Slavchev Peevski -> Delyan Peevski (officer, ID: 240552279)
+2025-11-18 13:42:17,744 - INFO -   ✓ Erkam Yildrim -> ERKAM YILDIRIM (officer, ID: 59178762)
+2025-11-18 13:42:17,744 - INFO -   ✓ Family of Sergei Chemezov -> Tatiana P. Ignatova (officer, ID: 23167)
+2025-11-18 13:42:17,745 - INFO -   ✓ Gennady Timchenko -> GUENNADI TIMTCHENKO (officer, ID: 240057775)
+2025-11-18 13:42:17,745 - INFO -   ✓ Ian Kirby -> Ian Stuart Kirby (officer, ID: 12173822)
+2025-11-18 13:42:17,745 - INFO -   ✓ Idalécio de Oliveira -> IDALECIO DE CASTRO RODRIGUES DE OLIVEIRA (officer, ID: 240101004)
+2025-11-18 13:42:17,745 - INFO -   ✓ Jérôme Cahuzac -> Mr. Jerome Andre CAHUZAC (officer, ID: 13012726)
+2025-11-18 13:42:17,745 - INFO -   ✓ Kalpana Rawal -> Mr Hashmukhrai Karsanji Makanji Rawal (officer, ID: 12157283)
+2025-11-18 13:42:17,745 - INFO -   ✓ Mariam Safdar -> Mariam Safdar (officer, ID: 13010742)
+2025-11-18 13:42:17,745 - INFO -   ✓ Mohammed bin Rashid Al Maktoum -> Mohammed bin Rashid (officer, ID: 240552646)
+2025-11-18 13:42:17,745 - INFO -   ✓ Nirupama Rajapaksa -> Nirupama Rajapaska (officer, ID: 240552287)
+2025-11-18 13:42:17,745 - INFO -   ✓ Pavlo Lazarenko -> Pavel Lazarenko (officer, ID: 12085816)
+2025-11-18 13:42:17,745 - INFO -   ✓ Prime Minister Ilham Aliyev&#39;s wife, children and sister -> Arzu Aliyeva (officer, ID: 15005003)
+2025-11-18 13:42:17,745 - INFO -   ✓ Prince Khaled bin Sultan bin Abdulaziz -> Saud Bin Fahad Bin Abdulaziz Al Saud - Prince (officer, ID: 80026317)
+2025-11-18 13:42:17,745 - INFO -   ✓ Ramalingam Paskaralingam -> Mr. Ramalingum MODELY RUNGEN (officer, ID: 12154066)
+2025-11-18 13:42:17,745 - INFO -   ✓ Rami and Hafez Makhlouf -> Rami Mohammed Mahklouf (officer, ID: 84100016)
+2025-11-18 13:42:17,745 - INFO -   ✓ Ravindra Kishore (RK) Sinha -> RAVINDRA KISHORE SINHA (officer, ID: 56094565)
+2025-11-18 13:42:17,745 - INFO -   ✓ Sheikh Khalifa bin Salman Al Khalifa -> Khalifa bin Salman Al Khalifa (officer, ID: 240552605)
+2025-11-18 13:42:17,745 - INFO -   ✓ Suleiman Kerimov -> Suleyman Kerimov Foundation (officer, ID: 240511949)
+2025-11-18 13:42:17,745 - INFO -   ✓ Sükhbaataryn Batbold -> Sukhbaatar Batbold (officer, ID: 240552625)
+2025-11-18 13:42:17,745 - INFO -   ✓ Tahnoon bin Zayed Al Nahyan -> Tahnoon bin Zayed (officer, ID: 240552670)
+2025-11-18 13:42:17,745 - INFO -   ✓ The Aliyev children -> Arzu Aliyeva (officer, ID: 15005003)
+2025-11-18 13:42:17,745 - INFO -   ✓ Tony Blair -> HONOURABLE ANTHONY CHARLES LYNTON BLAIR (officer, ID: 240045460)
+2025-11-18 13:42:17,745 - INFO -   ✓ Zsolt Horváth -> Dr. Zsolt HORVATH (officer, ID: 12219550)
+2025-11-18 13:42:17,745 - INFO - 
+Successfully loaded 172 ground truth nodes
+2025-11-18 13:42:17,883 - INFO - Ground truth mapping saved to ground_truth_mapping.txt
+2025-11-18 13:42:17,883 - INFO - ======================================================================
+2025-11-18 13:42:17,884 - INFO - PHASE 1: INITIAL NETWORK CONSTRUCTION
+2025-11-18 13:42:17,884 - INFO - ======================================================================
+2025-11-18 13:42:17,884 - INFO - Max nodes: 50000
+2025-11-18 13:42:17,884 - INFO - Max depth: 5
+2025-11-18 13:42:17,884 - INFO - Starting from 172 ground truth nodes
+2025-11-18 13:42:17,884 - INFO - Loading relationships from CSV using 24 CPU cores...
+2025-11-18 13:42:17,884 - INFO - Reading relationship chunks...
+2025-11-18 13:42:21,771 - INFO - Processing 7 chunks in parallel...
+2025-11-18 13:42:59,195 - INFO - Merging adjacency lists...
+2025-11-18 13:43:05,994 - INFO - Loaded 3339267 total relationships
+2025-11-18 13:43:05,995 - INFO - Nodes with outgoing edges: 1131496
+2025-11-18 13:43:05,995 - INFO - Nodes with incoming edges: 1321323
+2025-11-18 13:43:05,995 - INFO - 
+Expanding network with BFS...
+2025-11-18 13:43:06,731 - INFO - 
+Adding edges (total collected: 499877)...
+2025-11-18 13:43:07,274 - INFO - Added 201632 edges (298245 skipped due to missing endpoints)
+2025-11-18 13:43:07,292 - INFO - 
+Built network with 50000 nodes and 99374 edges
+2025-11-18 13:43:07,292 - INFO - Depth distribution: {0: 171, 1: 449, 2: 1896, 3: 47484}
+2025-11-18 13:43:07,333 - INFO -   Unique nodes: 50000 (total: 50000) - OK
+2025-11-18 13:43:07,351 - INFO -   Unique edges: 99374 (total: 99374) - OK
+2025-11-18 13:43:08,561 - INFO - 
+======================================================================
+2025-11-18 13:43:08,561 - INFO - Initial Network Statistics
+2025-11-18 13:43:08,561 - INFO - ======================================================================
+2025-11-18 13:43:08,561 - INFO - Nodes: 50,000
+2025-11-18 13:43:08,581 - INFO - Edges: 99,374
+2025-11-18 13:43:08,593 - INFO - Density: 0.00003975
+2025-11-18 13:43:08,619 - INFO - 
+Node type distribution:
+2025-11-18 13:43:08,619 - INFO -   entity: 46,683 (93.4%)
+2025-11-18 13:43:08,619 - INFO -   officer: 2,914 (5.8%)
+2025-11-18 13:43:08,619 - INFO -   address: 310 (0.6%)
+2025-11-18 13:43:08,619 - INFO -   intermediary: 87 (0.2%)
+2025-11-18 13:43:08,619 - INFO -   other: 6 (0.0%)
+2025-11-18 13:43:08,681 - INFO - 
+Top 10 relationship types:
+2025-11-18 13:43:08,698 - INFO -   officer_of: 49,692 (50.0%)
+2025-11-18 13:43:08,709 - INFO -   registered_address: 42,690 (43.0%)
+2025-11-18 13:43:08,721 - INFO -   intermediary_of: 5,935 (6.0%)
+2025-11-18 13:43:08,733 - INFO -   same_name_as: 532 (0.5%)
+2025-11-18 13:43:08,744 - INFO -   similar: 455 (0.5%)
+2025-11-18 13:43:08,756 - INFO -   connected_to: 29 (0.0%)
+2025-11-18 13:43:08,768 - INFO -   same_as: 20 (0.0%)
+2025-11-18 13:43:08,779 - INFO -   same_id_as: 10 (0.0%)
+2025-11-18 13:43:08,791 - INFO -   same_company_as: 8 (0.0%)
+2025-11-18 13:43:08,803 - INFO -   underlying: 3 (0.0%)
+2025-11-18 13:43:08,826 - INFO - 
+In-degree - Min: 0, Max: 37338, Mean: 1.99, Median: 1.00
+2025-11-18 13:43:08,832 - INFO - Out-degree - Min: 0, Max: 36255, Mean: 1.99, Median: 1.00
+2025-11-18 13:43:08,833 - INFO - 
+Extracting largest connected component...
+2025-11-18 13:43:08,878 - INFO - Found 122 weakly connected components
+2025-11-18 13:43:08,878 - INFO - Top 5 component sizes: [41667, 2326, 1997, 1834, 501]
+2025-11-18 13:43:09,095 - INFO - LCC: 41667 nodes, 89543 edges
+2025-11-18 13:43:09,096 - INFO - 
+======================================================================
+2025-11-18 13:43:09,096 - INFO - Largest Connected Component Statistics
+2025-11-18 13:43:09,096 - INFO - ======================================================================
+2025-11-18 13:43:09,100 - INFO - Nodes: 41,667
+2025-11-18 13:43:09,313 - INFO - Edges: 89,543
+2025-11-18 13:43:09,527 - INFO - Density: 0.00005158
+2025-11-18 13:43:09,569 - INFO - 
+Node type distribution:
+2025-11-18 13:43:09,574 - INFO -   entity: 40,562 (97.3%)
+2025-11-18 13:43:09,577 - INFO -   officer: 1,081 (2.6%)
+2025-11-18 13:43:09,580 - INFO -   address: 17 (0.0%)
+2025-11-18 13:43:09,584 - INFO -   intermediary: 7 (0.0%)
+2025-11-18 13:43:09,818 - INFO - 
+Top 10 relationship types:
+2025-11-18 13:43:10,026 - INFO -   officer_of: 45,309 (50.6%)
+2025-11-18 13:43:10,232 - INFO -   registered_address: 38,384 (42.9%)
+2025-11-18 13:43:10,435 - INFO -   intermediary_of: 5,774 (6.4%)
+2025-11-18 13:43:10,639 - INFO -   similar: 53 (0.1%)
+2025-11-18 13:43:10,843 - INFO -   same_as: 20 (0.0%)
+2025-11-18 13:43:11,062 - INFO -   underlying: 3 (0.0%)
+2025-11-18 13:43:11,290 - INFO - 
+In-degree - Min: 0, Max: 37338, Mean: 2.15, Median: 1.00
+2025-11-18 13:43:11,295 - INFO - Out-degree - Min: 0, Max: 36255, Mean: 2.15, Median: 1.00
+2025-11-18 13:43:11,295 - INFO - 
+Saving networks...
+2025-11-18 13:43:11,295 - INFO - Saving initial network to panama_network_initial_50000.pkl...
+2025-11-18 13:43:11,730 - INFO -   Saved: panama_network_initial_50000.pkl
+2025-11-18 13:43:11,731 - INFO - Saving LCC to panama_network_initial_50000_lcc.pkl...
